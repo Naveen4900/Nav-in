@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Naveen </h1>
 <p align="center">
-🎓 IT Student • 🧠 AI Explorer • 🌐 Data Scientist 
+🎓 Masters in IT MGMT • 🧠 AI Explorer • 🌐 Data Scientist 
 </p>
 
 ---
@@ -44,7 +44,12 @@
 ### 📜 Certifications
 
 ✅ [IBM – Data Science](https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3)
+
 ✅ [IBM – Advanced Data Visualization with Tableau](https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3)  
+
+✅ [IBM – AI Engineering](https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3)
+
+✅ [UC San Diego – Big Data Specialization](https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3)
 
 ---
 ### 📊 GitHub Stats
@@ -59,7 +64,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-regula-35219929a>
+  <a href="https://www.linkedin.com/in/naveen-regula-35219929a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:venkatanaveenregula@gmail.com">
