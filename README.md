@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 💻 Masters in IT MGMT, passionate about:  
-- 🔍 Exploring **Machine Learning**, **AI**, and **Data Science**
+- 🔍 Exploring **Machine Learning**, **AI**, **NLP**, **DEEP LEARNING** and **Data Science**
 - 🛠 Building **real-world Data pipelines & Models**
 - 📚 Constant learning through courses, certifications, and hands-on projects
 
