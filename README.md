@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-💻 I’m a IT student at **Indiana wesleyan University**, passionate about:  
+💻 Masters in IT MGMT, passionate about:  
 - 🔍 Exploring **Machine Learning**, **AI**, and **Data Science**
 - 🛠 Building **real-world Data pipelines & Models**
 - 📚 Constant learning through courses, certifications, and hands-on projects
