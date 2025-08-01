@@ -47,7 +47,7 @@
 
 ✅ [IBM – Advanced Data Visualization with Tableau](https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3)  
 
-✅ [IBM – AI Engineering]([https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3](https://www.coursera.org/account/accomplishments/specialization/certificate/E8A5V51FL1SQ))
+✅ [IBM – AI Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/E8A5V51FL1SQ)
 
 ✅ [UC San Diego – Big Data Specialization](https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3)
 
