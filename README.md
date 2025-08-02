@@ -36,6 +36,8 @@
 | 💡 Project | 🔧 Description |
 |-----------|----------------|
 | PREDICTION OF SPACEX ROCKET LANDINGS | create a model to Predicting SpaceX rocket landings using API data, AND Determining the price of each lauch |
+| 
+AI-Powered RAG Assistant for Research Automation |  Designed and deployed a Retrieval-Augmented Generation (RAG) assistant to automate research workflows for a scientific organization overwhelmed by data volume |
 
 👉 _More coming soon. Stay tuned!_
 
