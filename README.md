@@ -46,7 +46,7 @@
 
 ✅ [IBM – Data Science](https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3)
 
-✅ [IBM – Advanced Data Visualization with Tableau](https://coursera.org/share/49c154d1415bf85d1ce8b88befde1ec3)  
+✅ [IBM – Advanced Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/verify/FK78E4OO9BE2)
 
 ✅ [IBM – AI Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/E8A5V51FL1SQ)
 
